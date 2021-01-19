@@ -100,8 +100,6 @@ python3 hamster.py -u admin --passwords rockyou.txt -v
 <code> python3 hamster.py --users users.txt --passwords passwords.txt --domains host-list.txt -v </code> </br>
 
 ### Overview
-
-<br>
 <p align="center">
 <img src="https://i.hizliresim.com/siFUbh.png"/>
 </p>

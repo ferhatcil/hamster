@@ -24,7 +24,7 @@ class File():
 
 class Attack:
     def __init__(self):
-        self.parser = argparse.ArgumentParser(description="HTTPBasicAuthBruter v1 && github.com/ferhatcil")
+        self.parser = argparse.ArgumentParser(description="Hamster v1 && github.com/ferhatcil")
         self.parser.add_argument('-U', '--users', required=False, help="you can upload a txt file filled with usernames")
         self.parser.add_argument('-P', '--passwords', required=False, help="you can upload a txt file filled with passwords")
         self.parser.add_argument('-u', '--user', required=False, help="you can specify only one username")
